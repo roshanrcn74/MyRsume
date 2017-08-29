@@ -1,0 +1,106 @@
+
+/* 
+    Created on : Aug 29, 2017, 12:58:06 AM
+    Author     : roshann
+*/
+nav a:link{color:#795240;
+}
+nav a:visited{color:#A58366;
+}
+nav a:hover{color:#333300; 
+} 
+
+body { 
+	background-color: azure;
+	background-image: url();
+	font-family: Verdana, Arial, sans-serif;
+	
+ } 
+
+ h1 { 
+	background-color: lightskyblue;
+	font-family: Georgia, Times New Roman, serif;
+	background-image: url();
+	background-repeat:no-repeat;
+	background-position : center;
+	height:100px;
+	margin: 0;
+        text-align: center;
+	margin-bottom:0;
+ }
+ 
+ h2{
+	font-family: Georgia, Times New Roman, serif;
+	
+ }
+ 
+ h3 {
+	 background-color: #E6D6A9;
+	 text-transform : uppercase;
+ } 
+ 
+ nav{
+	 font-weight: bold;
+	 text-align: center;
+	 padding: 10px;
+	 float: left;
+	 width: 160px;		 
+ }
+main {
+	 padding: 20px;	
+	 display: block;
+	 background-color: aliceblue;
+	 margin-left: 175px;
+}
+
+main ul {
+	 list-style-position: inside;
+	}
+	
+main div {
+		overflow: auto;
+		font-size:90%;
+		padding-left:5%;
+		padding-right:5%;
+}
+ 
+ ul {	 
+	 padding-left:0;
+	 font-size:1.2em;	 
+ }
+ 
+ p {
+	 
+	 font-family: Veranda;
+	 color: #996633;
+ }
+ 
+  div {
+	color :#996633;	 
+ }
+ 
+  footer{
+	background-color: lightblue;
+	color: #000000;
+	font-size: .60em;
+	font-style: italic;
+	text-align: center;
+	padding: 10px;	
+ }
+ 
+ footer a{
+	 text-color:#000000;
+ }
+ #wrapper{
+		margin-left:auto;
+		margin-right:auto;
+		width: 80%;
+		min-width: 96px;
+		max-width: 2048px;
+		background-color: silver; 
+                color:graytext;
+		box-shadow: 3px 3px 3px #2E0000;
+		}
+.list {
+            list-style-type: none;        
+                }
